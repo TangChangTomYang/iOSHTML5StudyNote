@@ -27,3 +27,17 @@
 
 
 ####二、修改标签的类型
+
+
+
+直接在对应的选择器中修改对应 标签的显示类型即可
+
+```objc
+display: none; /*让标签隐藏 直接这一块没的了*/
+display: block; /* 块级标签*/
+display: inline;/* 行内标签*/
+display: inline-block; /*行内块级标签*/
+
+
+```
+
