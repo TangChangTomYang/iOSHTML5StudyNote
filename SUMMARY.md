@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [001-day](001-day.md)
   * [1&gt; html 基础介绍](001-day/1-html-ji-chu-jie-shao.md)
-  * 2&gt; 常见的HTML标签
+  * [2&gt; 常见的HTML标签](001-day/2-chang-jian-de-html-biao-qian.md)
   * 3&gt; HTML5新增的标签
   * 4&gt; CSS 样式简洁
   * 5&gt; CSS 选择器
