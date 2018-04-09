@@ -6,7 +6,7 @@
   * [2&gt; 常见的HTML标签](001-day/2-chang-jian-de-html-biao-qian.md)
   * 3&gt; HTML5新增的标签
   * 4&gt; CSS 样式简洁
-  * 5&gt; CSS 选择器
+  * [5&gt; CSS 选择器](001-day/5-css-xuan-ze-qi.md)
   * 6&gt; CSS 样式选择器的优先级
   * 7&gt; HTML 标签的类型
   * 8&gt; CSS 属性
