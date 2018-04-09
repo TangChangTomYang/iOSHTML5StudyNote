@@ -57,6 +57,7 @@ React native
 web1.0  主流技术：html+css
 web2.0  主流技术：Ajax(javaScript/DOM/异步数据请求)
 web3.0  主流技术：HTML5+ CSS ，亮点（Canvas HTML5 音视频 web存储 Geolocation 多线程处理）
+CSS3亮点： 设计动画 2D变形 新特性
 ```
 
 
