@@ -9,7 +9,7 @@
   * [5&gt; CSS 选择器](001-day/5-css-xuan-ze-qi.md)
   * [6&gt; CSS 样式选择器的优先级](001-day/6-css-yang-shi-xuan-ze-qi-de-you-xian-ji.md)
   * [7&gt; HTML 标签的类型](001-day/7-html-biao-qian-de-lei-xing.md)
-  * 8&gt; CSS 属性
+  * [8&gt; CSS 属性](001-day/8-css-shu-xing.md)
   * 9&gt; 盒子模型
   * 10&gt; HTML 内容居中
 * [002-day](002-day.md)
